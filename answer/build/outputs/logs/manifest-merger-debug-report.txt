@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml
+application
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:11:5-51:19
+	android:label
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.answer.MainActivity
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:18:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.answer.AnalogyExaminationActivity
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:27:9-33:20
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:30:13-45
+	android:launchMode
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:31:13-43
+	android:configChanges
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:29:13-74
+	android:name
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:28:13-55
+activity#com.example.answer.MyErrorQuestionActivity
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:35:9-41:20
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:38:13-45
+	android:launchMode
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:39:13-43
+	android:configChanges
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:37:13-74
+	android:name
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:36:13-52
+activity#com.example.answer.MyErrorQuestionDetailActivity
+ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:43:9-49:20
+	android:screenOrientation
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:46:13-45
+	android:launchMode
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:47:13-43
+	android:configChanges
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from E:\AndroidStudioProjects\StudenManagement\answer\src\main\AndroidManifest.xml:44:13-58
