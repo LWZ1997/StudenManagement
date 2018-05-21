@@ -32,6 +32,9 @@
         <activity android:name=".activity.studentInfo_activity"></activity>
         <activity android:name=".activity.student_total_score"></activity>
         <activity android:name=".activity.student_activity"></activity>
+        <activity android:name=".activity.paperInfo_activity"></activity>
+        <activity android:name=".activity.updatePaper_Info_activity"></activity>
+        <activity android:name=".activity.deletePaper_activity"></activity>
 
         <receiver android:name=".tools.MyBroadcastBestPractice">
             <intent-filter>
